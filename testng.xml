@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Pavan.Kopparapu/Downloads/Pavan (2)/PavanRaji">
+        <classes>
+            <class name="Raji5"></class>
+            <class name="Raji6"></class>
+        </classes>
+    </test>
+</suite>
